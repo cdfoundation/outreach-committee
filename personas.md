@@ -73,6 +73,8 @@ I direct my organization tactically to maximize return on our investment in soft
 - Productivity boosters
 
 #### My job title could be:
+- Product Manager
+- DevOps Transformational Lead
 - Director of Delivery
 - DevOps Manager
 - Developer Productivity Manager
@@ -113,7 +115,7 @@ Example title: Deutsche Bank Saves Millions by Automating CI & Artifact Manageme
 - Selling new/different ideas to the board - balancing the new stuff with primary business needs/motivators
 
 
-## Solutions Explorer
+## Developer Advocate
 
 I research and develop hands-on projects and solutions using open source tools as part of my developer relations or advocacy role. While building solutions, I develop a deep understanding of the pros and cons of different tools/platforms. I have a strong connection to the technical implementation and business application of the projects because of my work with stakeholders from different companies, and make solution recommendations to my customers. I have awareness of many projects and may contribute and engage heavily in those I'm passionate about, but I also need to maintain a broad knee-deep familiarity with a variety of tools and platforms. 
 
